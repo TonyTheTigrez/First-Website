@@ -1,0 +1,47 @@
+body, html {
+    height:100%
+}
+
+body{
+background-image: url("https://yt3.googleusercontent.com/V4FqOieQ9y9dnErXPUZNWl1hyLafxIK7F55n5M8LVhPBmEou8kAbNuMlUZx23DoJHvH1sWG56No=s900-c-k-c0x00ffffff-no-rj");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1 {backdrop-filter: blur(10px);}
+h2 {backdrop-filter: blur(10px);}
+
+/* table */
+table, th, td {
+    border: 1px solid black;
+}
+
+.Table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .Table2 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+/* centering */
+h1 {text-align: center; font-size: 100px;}
+h2 {text-align: center;}
+.Bio {text-align:center;
+}
+.table2 {text-align: center;}
+
+/* form */
+    form {
+        background-color: peachpuff;
+        padding: 20px;
+        border-radius: 10px;
+        width: 450px;
+        text-align: center;
+        margin: 0 auto;
+        }
+    
